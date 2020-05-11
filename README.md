@@ -12,4 +12,4 @@ Combining the two into a single subroutine was definitely possible and can be su
 
 If you would like that file, please let me know and I will be happy to submit it as well.
 
-The instructions were a little vague in some regards so I hope that I have completed it satisfactorily.
+The instructions were a little vague in some regards so I hope that I have completed it satisfactorily. I also included the data with the VBS code embedded complete with buttons.
